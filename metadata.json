@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of KaduAgro - Kaduna Market Price Viewer",
+  "description": "A comprehensive agricultural market price tracker for Kaduna State, Nigeria, helping farmers and traders stay informed about crop prices and market locations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
